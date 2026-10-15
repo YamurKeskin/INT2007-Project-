@@ -74,7 +74,7 @@ PROJECT/
 └── report.pdf
 ```
 
-## How to run the analysis
+## How to run Analysis 
 
 1. Download or clone this repository.
 2. Open the project folder in Visual Studio Code.
@@ -87,7 +87,7 @@ source("02_analysis.r")
 source("03_correlation.r")
 ```
 
-## How to generate the figures
+## Output
 
 After completing the R analysis, run the Python visualisation script from the VS Code terminal:
 
